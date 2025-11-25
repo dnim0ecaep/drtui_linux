@@ -48,6 +48,8 @@ Files Kept in the \bin folder when you run menumaker, those files in there will 
 ########################################
 # LS_COLORS for file-type categories   #
 ########################################
+
+
 Scripting        (Bright Yellow) 11
 
 Config files     (Dull Yellow)   3
