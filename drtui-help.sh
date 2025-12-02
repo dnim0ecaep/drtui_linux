@@ -1,9 +1,9 @@
 #!/bin/bash
 
 cat <<EOF
-drdos-help: Summary of Custom Commands
+drtui-help: Summary of Custom Commands
 
-  menu-maker  -> Menu for these commands and more
+  menumaker  -> Menu for these commands and more
   copy        -> Copy files with interactive prompt and verbose output.
   move        -> Move/rename files with interactive prompt and verbose output.
   del         -> Delete files with interactive prompt and verbose output.
