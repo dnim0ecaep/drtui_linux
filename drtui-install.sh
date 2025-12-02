@@ -2,7 +2,9 @@
 # install help
 #Requires "eza"
 cat << 'EOF' >> ~/.bashrc
-alias ls='eza -l --grid --icons --time-style=long-iso --group-directories-first'
+alias dir='eza --long --header –icons --group-directories-first --sort=name --color=always --time-style=long-iso'
+alias ddir='eza --long --header –icons --group-directories-first --sort=name --color=always --time-style=long-iso --grid'
+alias ls='eza --long --header –icons --group-directories-first --sort=name --color=always --time-style=long-iso'
 PS1='\[\e[1;32m\]\u@\h:\[\e[1;34m\]\w \[\e[0m\]\$ '
 EOF
 
