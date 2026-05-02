@@ -9,12 +9,8 @@ alias lls='eza --long --header --group-directories-first --sort=name --color=alw
 PS1='\[\e[1;32m\]\u@\h:\[\e[1;34m\]\w \[\e[0m\]\$ '
 EOF
 
-mkdir ~/Code
-cd  ~/Code
-# Install Orchis theme
-git clone https://github.com/vinceliuice/Orchis-theme.git
-cd Orchis-theme
-./install.sh -c dark -t default
+
+
 
 sudo cp drtui-help.sh /usr/local/bin/drtui-help
 sudo chmod +x /usr/local/bin/drtui-help
@@ -131,4 +127,3 @@ sudo wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBr
 sudo unzip JetBrainsMono.zip
 sudo fc-cache -fv
 cd ~
-
