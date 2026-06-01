@@ -1,4 +1,4 @@
-<img width="871" height="525" alt="Screenshot 2026-06-01 at 3 20 27 PM" src="https://github.com/user-attachments/assets/825f7ed3-f3b2-4d24-9710-04e7ec46f259" />
+
 ## Dr TUI for Linux
 
 Dr TUI is here to make your command-line life a lot easier. The command line isn’t actually that hard—but there are too many choices, and the defaults are pretty terrible. They’re fine if you want to live in a black-and-white world.
@@ -9,6 +9,7 @@ Dr Tui will make your prompt colorful, and the files and folders will also be co
 
 When a file becomes $$\color{green}{Executable}$$ it will be green. so if you do a "chmod +x file", now you know visully which files are executables.
 
+<img width="871" height="525" alt="Screenshot 2026-06-01 at 3 20 27 PM" src="https://github.com/user-attachments/assets/825f7ed3-f3b2-4d24-9710-04e7ec46f259" />
 
 ## Dr Tui Commands: Summary of Commands
 
